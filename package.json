@@ -9,7 +9,9 @@
         "http-serve": "1.0.1",
         "jasmine": "3.6.3",
         "karma": "2.0.0",
+        "karma-jasmine": "1.1.1",
         "karma-chrome-launcher": "2.2.0",
-        "karma-jasmine": "1.1.1"
+        "karma-ie-launcher": "^1.0.0",
+        "karma-phantomjs-launcher": "^1.0.4"
     }
 }
