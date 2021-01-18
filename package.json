@@ -6,12 +6,13 @@
         "test": "./node_modules/karma/bin/karma start karma.conf.js"
     },
     "devDependencies": {
-        "http-serve": "1.0.1",
+        "http-serve": "^1.0.1",
         "jasmine": "^3.6.3",
         "karma": "^5.0.0",
         "karma-chrome-launcher": "^3.1.0",
         "karma-ie-launcher": "^1.0.0",
         "karma-jasmine": "^4.0.1",
-        "karma-phantomjs-launcher": "^1.0.4"
+        "karma-phantomjs-launcher": "^1.0.4",
+        "karma-coverage": "^2.0.3"
     }
 }
